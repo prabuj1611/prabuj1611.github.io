@@ -5,3 +5,5 @@ title: "PRABU JEYABALAN"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+|[./image/Boston.webp]{width -"75%" fig-align-"center"}
