@@ -1,10 +1,17 @@
 ---
-title: "PRABU JEYABALAN"
+title: "Prabu Jeyabalan"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](./image/my_image.jpg){height="400px" fig-align="left"}
 
 
-![Boston](./image/Boston.webp){width="75%" fig-align="center"}
+
+
+**Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast**
+
+**📍 Bay Area, California**
+
+I am a results-driven data analyst with 5+ years of experience in market research, business intelligence, and predictive analytics. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, and AWS cloud computing to drive data-driven decision-making.
+
+With a strong background in statistical modeling, machine learning, and strategic analytics, I have successfully led projects in forecasting market trends, optimizing pricing strategies, and improving business operations. I am passionate about translating complex data insights into actionable business strategies and enhancing decision-making through advanced analytics.
+
+Email: [prabuj1611@gmail.com](mailto:prabuj1611@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prabu-jeyabalan/) | [GitHub](https://github.com/prabuj1611)
