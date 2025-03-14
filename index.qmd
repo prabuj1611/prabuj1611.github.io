@@ -1,13 +1,10 @@
----
-title: "Prabu Jeyabalan"
----
 ![](./image/my_image.jpg){height="400px" fig-align="center"}
 
 **Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast**
 
 **📍 Bay Area, California**
 
-I am a data analyst with 5+ years of experience in business intelligence, predictive analytics, and market research. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, and AWS to drive data-driven decision-making.
+I am a data analyst with 5+ years of experience in business intelligence, predictive analytics, and market research. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, Excel and AWS to drive data-driven decision-making.
 
 I have led projects in forecasting market trends, optimizing pricing strategies, and improving business operations using statistical modeling and machine learning. Passionate about AI-driven analytics, I focus on translating complex data into actionable business insights.
 
