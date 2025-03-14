@@ -1,5 +1,4 @@
 ---
-title: "Certifications"
 format:
   html:
     css: styles.css
@@ -7,8 +6,18 @@ execute:
   echo: false
 ---
 
-## My Certifications
+## 🎓 MITx Micro Master's Certifications
 
-pdfunite "MITx CTL.CFx Certificate _ edX.pdf" "MITx CTL.SC0x Certificate _ edX.pdf" merged_certificate.pdf
-<iframe src="./image/merged_certificate.pdf" width="100%" height="600px"></iframe>
+<iframe src="./image/SCM MicroMasters.pdf" width="100%" height="600px"></iframe>
 
+## 🎓 Google Advanced Data Analytics
+
+<iframe src="./image/Coursera 43HOLA3IWX3U.pdf" width="100%" height="600px"></iframe>
+
+## 🎓 AWS Academy Graduate - AWS Academy Cloud Foundations
+
+<iframe src="./image/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250314-26-1dxhfr.pdf" width="100%" height="600px"></iframe>
+
+## 🎓 Supply Chain Management Specialization
+
+<iframe src="./image/Coursera LTHMDXKCQZSF.pdf" width="100%" height="600px"></iframe>
