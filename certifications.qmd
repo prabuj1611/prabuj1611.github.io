@@ -8,16 +8,25 @@ execute:
 
 ## 🎓 MITx Micro Master's Certifications
 
-<iframe src="./image/SCM MicroMasters.pdf" width="100%" height="600px"></iframe>
+<div class="cert-frame">
+  <iframe src="./image/SCM MicroMasters.pdf" class="pdf-viewer"></iframe>
+</div>
 
-## 🎓 Google Advanced Data Analytics
+## 📊 Google Advanced Data Analytics
 
-<iframe src="./image/Coursera 43HOLA3IWX3U.pdf" width="100%" height="600px"></iframe>
+<div class="cert-frame">
+  <iframe src="./image/Coursera 43HOLA3IWX3U.pdf" class="pdf-viewer"></iframe>
+</div>
 
-## 🎓 AWS Academy Graduate - AWS Academy Cloud Foundations
+## ☁️ AWS Academy Graduate – AWS Academy Cloud Foundations
 
-<iframe src="./image/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250314-26-1dxhfr.pdf" width="100%" height="600px"></iframe>
+<div class="cert-frame">
+  <iframe src="./image/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250314-26-1dxhfr.pdf" class="pdf-viewer"></iframe>
+</div>
 
-## 🎓 Supply Chain Management Specialization
+## 🧭 Supply Chain Management Specialization
 
-<iframe src="./image/Coursera LTHMDXKCQZSF.pdf" width="100%" height="600px"></iframe>
+<div class="cert-frame">
+  <iframe src="./image/Coursera LTHMDXKCQZSF.pdf" class="pdf-viewer"></iframe>
+</div>
+

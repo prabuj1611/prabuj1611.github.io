@@ -14,13 +14,15 @@ website:
       - href: certifications.qmd
         text: Certifications
 
+
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    html-math-method: mathjax  # (Optional, but ensures full HTML support)
+
 
 
 

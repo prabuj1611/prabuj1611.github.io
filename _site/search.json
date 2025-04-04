@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "**PRABU JEYABALAN**",
-    "section": "",
-    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast\n📍 San Francisco Bay Area, California\nI am a data analyst with 5+ years of experience in business intelligence, predictive analytics, and market research. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, Excel and AWS to drive data-driven decision-making.\nI have led projects in forecasting market trends, optimizing pricing strategies, and improving business operations using statistical modeling and machine learning. Passionate about AI-driven analytics, I focus on translating complex data into actionable business insights.\nLet’s connect to explore opportunities in data science, AI, and business strategy optimization.\nEmail: prabuj1611@gmail.com | LinkedIn | GitHub"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am an avid explorer who enjoys hiking, long-distance biking across the country, and playing volleyball. When I’m not analyzing data, I love spending time with my 7-year-old Rottweiler, Caesar. My passion for problem-solving and curiosity extend beyond adventure and into my work as a data analyst and business intelligence professional.\nWith over five years of experience in market research, predictive analytics, and data-driven decision-making, I am currently pursuing an M.S. in Applied Business Analytics at Boston University. My focus is on cloud-based analytics solutions and big data tools that optimize business strategies.\nI specialize in Python, R, SQL, Tableau, Power BI, Excel, and AWS, using these tools to develop predictive models, automate data pipelines, and generate actionable insights that drive business growth. Previously, as the founder of Cradle Logistics, I leveraged data-driven strategies to enhance supply chain efficiency and increase profitability by 20%.\nPassionate about AI-driven analytics and business intelligence, I strive to bridge the gap between data and strategic decision-making. Whether it’s solving complex business challenges or embarking on my next adventure, I am always looking for new opportunities to explore and grow."
-  },
-  {
-    "objectID": "certifications.html",
-    "href": "certifications.html",
-    "title": "Certifications",
-    "section": "",
-    "text": "pdfunite “MITx CTL.CFx Certificate _ edX.pdf” “MITx CTL.SC0x Certificate _ edX.pdf” “MITx CTL.SC1x Certificate _ edX.pdf” “MITx CTL.SC2x Certificate _ edX.pdf” “MITx CTL.SC3x Certificate _ edX.pdf” “MITx CTL.SC4x Certificate _ edX.pdf” merged_certificate.pdf"
-  },
-  {
-    "objectID": "certifications.html#my-certifications",
-    "href": "certifications.html#my-certifications",
-    "title": "Certifications",
-    "section": "",
-    "text": "pdfunite “MITx CTL.CFx Certificate _ edX.pdf” “MITx CTL.SC0x Certificate _ edX.pdf” “MITx CTL.SC1x Certificate _ edX.pdf” “MITx CTL.SC2x Certificate _ edX.pdf” “MITx CTL.SC3x Certificate _ edX.pdf” “MITx CTL.SC4x Certificate _ edX.pdf” merged_certificate.pdf"
-  },
-  {
     "objectID": "certifications.html#google-advanced-data-analytics",
     "href": "certifications.html#google-advanced-data-analytics",
     "title": "**PRABU JEYABALAN**",
-    "section": "🎓 Google Advanced Data Analytics",
-    "text": "🎓 Google Advanced Data Analytics"
+    "section": "📊 Google Advanced Data Analytics",
+    "text": "📊 Google Advanced Data Analytics"
   },
   {
     "objectID": "certifications.html#aws-academy-graduate---aws-academy-cloud-foundations",
@@ -45,7 +17,63 @@
     "objectID": "certifications.html#supply-chain-management-specialization",
     "href": "certifications.html#supply-chain-management-specialization",
     "title": "**PRABU JEYABALAN**",
-    "section": "🎓 Supply Chain Management Specialization",
-    "text": "🎓 Supply Chain Management Specialization"
+    "section": "🧭 Supply Chain Management Specialization",
+    "text": "🧭 Supply Chain Management Specialization"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an avid explorer who enjoys hiking, long-distance biking across the country, and playing volleyball. When I’m not analyzing data, I love spending time with my 7-year-old Rottweiler, Caesar. My passion for problem-solving and curiosity extend beyond adventure and into my work as a data analyst and business intelligence professional.\nWith over five years of experience in market research, predictive analytics, and data-driven decision-making, I am currently pursuing an M.S. in Applied Business Analytics at Boston University. My focus is on cloud-based analytics solutions and big data tools that optimize business strategies.\nI specialize in Python, R, SQL, Tableau, Power BI, Excel, and AWS, using these tools to develop predictive models, automate data pipelines, and generate actionable insights that drive business growth. Previously, as the founder of Cradle Logistics, I leveraged data-driven strategies to enhance supply chain efficiency and increase profitability by 20%.\nPassionate about AI-driven analytics and business intelligence, I strive to bridge the gap between data and strategic decision-making. Whether it’s solving complex business challenges or embarking on my next adventure, I am always looking for new opportunities to explore and grow."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PRABU JEYABALAN",
+    "section": "",
+    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast San Francisco Bay Area, California"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "PRABU JEYABALAN",
+    "section": "Contact Me",
+    "text": "Contact Me\n\n\nEmail: prabuj1611@gmail.com\n\n\nLinkedIn • GitHub"
+  },
+  {
+    "objectID": "certifications.html#aws-academy-graduate-aws-academy-cloud-foundations",
+    "href": "certifications.html#aws-academy-graduate-aws-academy-cloud-foundations",
+    "title": "**PRABU JEYABALAN**",
+    "section": "☁️ AWS Academy Graduate – AWS Academy Cloud Foundations",
+    "text": "☁️ AWS Academy Graduate – AWS Academy Cloud Foundations"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "PRABU JEYABALAN",
+    "section": "🚀 Featured Projects",
+    "text": "🚀 Featured Projects\n\n\n&lt;h3&gt;&lt;a href=\"https://github.com/prabuj1611/chicago_violations_Analysis\" target=\"_blank\"&gt;chicago_violations_Analysis&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.&lt;/p&gt;\n&lt;span class=\"badge\"&gt;Jupyter Notebook&lt;/span&gt;\n\n\n&lt;h3&gt;&lt;a href=\"https://github.com/prabuj1611/ABA_Coding_Challenge\" target=\"_blank\"&gt;ABA_Coding_Challenge&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Analytics coding challenge submission with Python & pandas.&lt;/p&gt;\n&lt;span class=\"badge\"&gt;Jupyter Notebook&lt;/span&gt;"
+  },
+  {
+    "objectID": "projects.html#featured-projects-1",
+    "href": "projects.html#featured-projects-1",
+    "title": "My Projects",
+    "section": "🚀 Featured Projects",
+    "text": "🚀 Featured Projects\n\n\n&lt;h3&gt;&lt;a href=\"https://github.com/prabuj1611/chicago_violations_Analysis\" target=\"_blank\"&gt;chicago_violations_Analysis&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.&lt;/p&gt;\n&lt;span class=\"badge\"&gt;Jupyter Notebook&lt;/span&gt;\n\n\n&lt;h3&gt;&lt;a href=\"https://github.com/prabuj1611/ABA_Coding_Challenge\" target=\"_blank\"&gt;ABA_Coding_Challenge&lt;/a&gt;&lt;/h3&gt;\n&lt;p&gt;Analytics coding challenge submission with Python & pandas.&lt;/p&gt;\n&lt;span class=\"badge\"&gt;Jupyter Notebook&lt;/span&gt;"
   }
 ]

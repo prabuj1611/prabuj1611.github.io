@@ -1,5 +1,38 @@
 ---
 title: My Projects
-
-author: Prabu Jeyabalan
 ---
+## 🚀 Featured Projects
+
+<div class="project-grid">
+
+<div class="project-card">
+  <h3><a href="https://github.com/prabuj1611/chicago_violations_Analysis" target="_blank">Chicago Violations Analysis</a></h3>
+  <p>Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+
+<div class="project-card">
+  <h3><a href="https://github.com/prabuj1611/ABA_Coding_Challenge" target="_blank">ABA Coding Challenge</a></h3>
+  <p>Analytics coding challenge submission with Python & pandas.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+
+<div class="project-card">
+  <h3><a href="https://github.com/prabuj1611/Marketing_Analytics" target="_blank">Marketing Analytics</a></h3>
+  <p>Customer segmentation, churn prediction & campaign targeting.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+
+<div class="project-card">
+  <h3><a href="https://github.com/prabuj1611/NYC_Real_Estate_Case_Study" target="_blank">NYC Real Estate Case Study</a></h3>
+  <p>Predictive modeling for housing prices using regression and XGBoost.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+
+<div class="project-card">
+  <h3><a href="https://github.com/prabuj1611/Winter_Carnival_Optimization_Project" target="_blank">Winter Carnival Optimization</a></h3>
+  <p>Monte Carlo simulation for maximizing winter festival profits.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+
+</div>
