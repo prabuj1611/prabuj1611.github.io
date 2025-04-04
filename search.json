@@ -1,31 +1,52 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+  },
+  {
     "objectID": "certifications.html#google-advanced-data-analytics",
     "href": "certifications.html#google-advanced-data-analytics",
     "title": "**PRABU JEYABALAN**",
-    "section": "🎓 Google Advanced Data Analytics",
-    "text": "🎓 Google Advanced Data Analytics"
+    "section": "📊 Google Advanced Data Analytics",
+    "text": "📊 Google Advanced Data Analytics"
   },
   {
-    "objectID": "certifications.html#aws-academy-graduate---aws-academy-cloud-foundations",
-    "href": "certifications.html#aws-academy-graduate---aws-academy-cloud-foundations",
+    "objectID": "certifications.html#aws-academy-graduate-aws-academy-cloud-foundations",
+    "href": "certifications.html#aws-academy-graduate-aws-academy-cloud-foundations",
     "title": "**PRABU JEYABALAN**",
-    "section": "🎓 AWS Academy Graduate - AWS Academy Cloud Foundations",
-    "text": "🎓 AWS Academy Graduate - AWS Academy Cloud Foundations"
+    "section": "☁️ AWS Academy Graduate – AWS Academy Cloud Foundations",
+    "text": "☁️ AWS Academy Graduate – AWS Academy Cloud Foundations"
   },
   {
     "objectID": "certifications.html#supply-chain-management-specialization",
     "href": "certifications.html#supply-chain-management-specialization",
     "title": "**PRABU JEYABALAN**",
-    "section": "🎓 Supply Chain Management Specialization",
-    "text": "🎓 Supply Chain Management Specialization"
+    "section": "🧭 Supply Chain Management Specialization",
+    "text": "🧭 Supply Chain Management Specialization"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "**PRABU JEYABALAN**",
+    "title": "PRABU JEYABALAN",
     "section": "",
-    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast\n📍 San Francisco Bay Area, California\nI am a data analyst with 5+ years of experience in business intelligence, predictive analytics, and market research. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, Excel and AWS to drive data-driven decision-making.\nI have led projects in forecasting market trends, optimizing pricing strategies, and improving business operations using statistical modeling and machine learning. Passionate about AI-driven analytics, I focus on translating complex data into actionable business insights.\nLet’s connect to explore opportunities in data science, AI, and business strategy optimization.\nEmail: prabuj1611@gmail.com | LinkedIn | GitHub"
+    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast San Francisco Bay Area, California"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "PRABU JEYABALAN",
+    "section": "Contact Me",
+    "text": "Contact Me\n\n\nEmail: prabuj1611@gmail.com\n\n\nLinkedIn • GitHub"
   },
   {
     "objectID": "about.html",
