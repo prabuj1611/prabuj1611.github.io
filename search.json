@@ -2,16 +2,16 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "My Projects",
+    "title": "Featured Projects",
     "section": "",
-    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+    "text": "Analyzed operations, marketing, and guest preferences for Disney & Lobster Land’s Winter Carnival using segmentation, forecasting, and classification. Delivered strategic insights via data visualization.\n\nJupyter Notebook\n\n\n\n\n\n\n\nAnalyzing trends, delays, and fines across wards from 2008–2024. Visualized with pandas, seaborn, and matplotlib.\n\nJupyter Notebook\n\n\n\n\n\n\n\nApplied EDA, segmentation, conjoint analysis, and predictive modeling. Built logistic and random forest models with time series insights.\n\nJupyter Notebook\n\n\n\n\n\n\n\nAnalyzed BTC, ETH, BNB, SOL & DOGE using risk-return metrics, VaR, CVaR, and Monte Carlo simulations for future trend forecasting.\n\nJupyter Notebook\n\n\n\n\n\n\n\nBuilt SLR & MLR models to forecast income, analyze model performance, and evaluate features using Python on credit card data.\n\nJupyter Notebook\n\n\n\n\n\n\n\nApplied KNN and Naive Bayes to classify income levels and song preferences using Spotify and credit card datasets. Built with scikit-learn.\n\nJupyter Notebook"
   },
   {
     "objectID": "projects.html#featured-projects",
     "href": "projects.html#featured-projects",
-    "title": "My Projects",
+    "title": "Featured Projects",
     "section": "",
-    "text": "Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.\n\nJupyter Notebook\n\n\n\n\nAnalytics coding challenge submission with Python & pandas.\n\nJupyter Notebook\n\n\n\n\nCustomer segmentation, churn prediction & campaign targeting.\n\nJupyter Notebook\n\n\n\n\nPredictive modeling for housing prices using regression and XGBoost.\n\nJupyter Notebook\n\n\n\n\nMonte Carlo simulation for maximizing winter festival profits.\n\nJupyter Notebook"
+    "text": "Analyzed operations, marketing, and guest preferences for Disney & Lobster Land’s Winter Carnival using segmentation, forecasting, and classification. Delivered strategic insights via data visualization.\n\nJupyter Notebook\n\n\n\n\n\n\n\nAnalyzing trends, delays, and fines across wards from 2008–2024. Visualized with pandas, seaborn, and matplotlib.\n\nJupyter Notebook\n\n\n\n\n\n\n\nApplied EDA, segmentation, conjoint analysis, and predictive modeling. Built logistic and random forest models with time series insights.\n\nJupyter Notebook\n\n\n\n\n\n\n\nAnalyzed BTC, ETH, BNB, SOL & DOGE using risk-return metrics, VaR, CVaR, and Monte Carlo simulations for future trend forecasting.\n\nJupyter Notebook\n\n\n\n\n\n\n\nBuilt SLR & MLR models to forecast income, analyze model performance, and evaluate features using Python on credit card data.\n\nJupyter Notebook\n\n\n\n\n\n\n\nApplied KNN and Naive Bayes to classify income levels and song preferences using Spotify and credit card datasets. Built with scikit-learn.\n\nJupyter Notebook"
   },
   {
     "objectID": "certifications.html#google-advanced-data-analytics",
@@ -37,16 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PRABU JEYABALAN",
+    "title": "Contact Me",
     "section": "",
-    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast San Francisco Bay Area, California"
-  },
-  {
-    "objectID": "index.html#contact-me",
-    "href": "index.html#contact-me",
-    "title": "PRABU JEYABALAN",
-    "section": "Contact Me",
-    "text": "Contact Me\n\n\nEmail: prabuj1611@gmail.com\n\n\nLinkedIn • GitHub"
+    "text": "Data Analyst | Business Intelligence | AI & Machine Learning Enthusiast San Francisco Bay Area, California\n\n\n\n\nI am a data analyst with 5+ years of experience in business intelligence, predictive analytics, and market research. Currently pursuing an M.S. in Applied Business Analytics at Boston University, I specialize in Python, R, SQL, Tableau, Power BI, Excel and AWS to drive data-driven decision-making.\n\n\nI have led projects in forecasting market trends, optimizing pricing strategies, and improving business operations using statistical modeling and machine learning. Passionate about AI-driven analytics, I focus on translating complex data into actionable business insights.\n\n\nLet’s connect to explore opportunities in data science, AI, and business strategy optimization.\n\n\n\nContact Me"
   },
   {
     "objectID": "about.html",
