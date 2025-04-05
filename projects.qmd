@@ -6,9 +6,6 @@ format:
     toc: false
     page-layout: full
 ---
-
-## 🚀 Featured Projects
-
 ::: {=html}
 <div class="project-grid">
 
