@@ -1,38 +1,76 @@
 ---
-title: My Projects
+title: Featured Projects
+format:
+  html:
+    css: styles.css
+    toc: false
+    page-layout: full
 ---
+
 ## 🚀 Featured Projects
 
+::: {=html}
 <div class="project-grid">
 
-<div class="project-card">
-  <h3><a href="https://github.com/prabuj1611/chicago_violations_Analysis" target="_blank">Chicago Violations Analysis</a></h3>
-  <p>Complete analysis of building-related ordinance violation in Chicago, Illinois, from 2008 to 2024.</p>
-  <span class="badge">Jupyter Notebook</span>
-</div>
 
+::: {=html}
 <div class="project-card">
-  <h3><a href="https://github.com/prabuj1611/ABA_Coding_Challenge" target="_blank">ABA Coding Challenge</a></h3>
-  <p>Analytics coding challenge submission with Python & pandas.</p>
-  <span class="badge">Jupyter Notebook</span>
-</div>
-
-<div class="project-card">
-  <h3><a href="https://github.com/prabuj1611/Marketing_Analytics" target="_blank">Marketing Analytics</a></h3>
-  <p>Customer segmentation, churn prediction & campaign targeting.</p>
-  <span class="badge">Jupyter Notebook</span>
-</div>
-
-<div class="project-card">
-  <h3><a href="https://github.com/prabuj1611/NYC_Real_Estate_Case_Study" target="_blank">NYC Real Estate Case Study</a></h3>
-  <p>Predictive modeling for housing prices using regression and XGBoost.</p>
-  <span class="badge">Jupyter Notebook</span>
-</div>
-
-<div class="project-card">
+  <img src="image/winter_carnival.png" alt="Winter Carnival" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
   <h3><a href="https://github.com/prabuj1611/Winter_Carnival_Optimization_Project" target="_blank">Winter Carnival Optimization</a></h3>
-  <p>Monte Carlo simulation for maximizing winter festival profits.</p>
+  <p>Analyzed operations, marketing, and guest preferences for Disney & Lobster Land’s Winter Carnival using segmentation, forecasting, and classification. Delivered strategic insights via data visualization.</p>
   <span class="badge">Jupyter Notebook</span>
 </div>
+:::
 
+::: {=html}
+<div class="project-card">
+  <img src="image/chicago_violation.png" alt="Chicago Ordinance" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
+  <h3><a href="https://github.com/prabuj1611/chicago_violations_Analysis" target="_blank">Chicago Violations Analysis</a></h3>
+  <p>Analyzing trends, delays, and fines across wards from 2008–2024. Visualized with pandas, seaborn, and matplotlib.</p>
+  <span class="badge">Jupyter Notebook</span>
 </div>
+:::
+
+::: {=html}
+<div class="project-card">
+  <img src="image/marketing_ml.png" alt="Marketing ML" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
+  <h3><a href="https://github.com/prabuj1611/Marketing_Analytics" target="_blank">Marketing Analytics</a></h3>
+  <p>Applied EDA, segmentation, conjoint analysis, and predictive modeling. Built logistic and random forest models with time series insights.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+:::
+
+::: {=html}
+<div class="project-card">
+  <img src="image/crypto.png" alt="Crypto Analysis" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
+  <h3><a href="https://github.com/prabuj1611/Crypto_Analysis" target="_blank">Crypto Analysis</a></h3>
+  <p>Analyzed BTC, ETH, BNB, SOL & DOGE using risk-return metrics, VaR, CVaR, and Monte Carlo simulations for future trend forecasting.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+:::
+
+::: {=html}
+<div class="project-card">
+  <img src="image/credit_card.png" alt="Credit Card Income Prediction" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
+  <h3><a href="https://github.com/prabuj1611/Credit-Card-Income-Prediction" target="_blank">Credit Card Income Prediction</a></h3>
+  <p>Built SLR & MLR models to forecast income, analyze model performance, and evaluate features using Python on credit card data.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+:::
+
+::: {=html}
+<div class="project-card">
+  <img src="image/spotify.png" alt="Classification Project" style="width:100%; height:auto; border-radius: 8px; margin-bottom: 10px;" />
+  <h3><a href="https://github.com/prabuj1611/Classification_Project" target="_blank">Classification Project</a></h3>
+  <p>Applied KNN and Naive Bayes to classify income levels and song preferences using Spotify and credit card datasets. Built with scikit-learn.</p>
+  <span class="badge">Jupyter Notebook</span>
+</div>
+:::
+
+</div> <!-- close project-grid -->
+:::
+
+
+
+
+
